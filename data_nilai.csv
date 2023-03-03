@@ -1,10 +1,10 @@
-aktif,45,visual
-tidak aktif,60,auditory
-aktif,70,visual
-aktif,55,visual
-tidak aktif,65,visual
-tidak aktif,85,auditory
-tidak aktif,75,auditory
-aktif,70,auditory
-aktif,90,auditory
-aktif,60,auditory
+aktif,45,mengerjakan
+tidak aktif,60,mengerjakan
+aktif,70,tidak
+aktif,85,tidak
+tidak aktif,95,tidak
+tidak aktif,85,mengerjakan
+tidak aktif,75,mengerjakan
+aktif,70,mengerjakan
+aktif,90,tidak
+aktif,60,mengerjakan
